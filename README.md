@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <b>CSE-AI @ IGDTUW '28</b> • <b>MERN Stack Developer</b> • <b>Problem Solving Enthusiast</b>
+  <b>CSE-AI @ IGDTUW '28</b> • <b>Full-Stack Developer</b> • <b>Problem Solving Enthusiast</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ishita197397">
     <img src="https://img.shields.io/badge/GitHub-Ishita197397-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/u/Ishita197397/">
+  <a href="https://leetcode.com/u/ishita_5/">
     <img src="https://img.shields.io/badge/LeetCode-1600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -54,8 +54,8 @@
 ### 🧠 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/Ishita197397/">
-    <img src="https://leetcard.jacoblin.cool/Ishita197397?theme=dark&font=Karma&ext=heatmap" />
+  <a href="https://leetcode.com/u/ishita_5/">
+    <img src="https://leetcard.jacoblin.cool/ishita_5?theme=dark&font=Karma&ext=heatmap" />
   </a>
 </p>
 
@@ -82,5 +82,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishita197397&label=Profile%20Views&color=7A7ADB&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ishita197397&label=Profile%20Views&style=flat" />
 </p>
