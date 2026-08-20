@@ -1,72 +1,86 @@
-# Hi there, I'm Ishita <img align="right" alt="GIF" height="160px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+# Hi there, I'm Ishita! 👋🌸
 
-- 🌸CSE-AI @ IGDTUW'28
-- 🌸 Passionate MERN Stack Dev
--🌸LeetCode Top 20% (1600+ Rating)
--🌸Eager to learn, connect , build, and grow!
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="180px"/>
+</p>
 
+<p align="center">
+  <b>CSE-AI @ IGDTUW '28</b> • <b>MERN Stack Developer</b> • <b>Problem Solving Enthusiast</b>
+</p>
 
-
-<br />
-<br />
-
-<!--<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay6561.dhananjay6561&"  />
-</div> -->
-
-<br />
-<br />
-
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="45px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />](#)
-[<img align="left" alt="HTML5" width="45px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />](#)
-[<img align="left" alt="CSS3" width="45px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />](#)
-[<img align="left" alt="JavaScript" width="45px" src="https://www.svgrepo.com/show/353925/javascript.svg" />](#)
-[<img align="left" alt="React" width="45px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />](#)
-[<img align="left" alt="Node.js" width="45px" src="https://www.svgrepo.com/show/378837/node.svg" />](#)
-[<img align="left" alt="Express.js" width="45px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />](#)
-[<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
-[<img align="left" alt="Python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />](#)
-[<img align="left" alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](#)
-[<img align="left" alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />](#)
-[<img align="left" alt="Git" width="45px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](#)
-[<img align="left" alt="GitHub" width="45px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />](#)
-[<img align="left" alt="Vite" width="45px" src="https://vitejs.dev/logo.svg" />](#)
-[<img align="left" alt="Postman" width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](#)
-
-
-
-<br />
-<br />
-<br />
-
-| 🔥 Streak | 📊 Stats |
-| --- | --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishita197397&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=Ishita197397&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github" width="100%"> |
-<h2 align="center">📈 Other stats</h2>
-
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ishita197397" target="_blank">
-  <img src="https://stats.quine.sh/Ishita197397/github?theme=dark" width="48%">
-</a>
-
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ishita197397" target="_blank">
-  <img src="https://stats.quine.sh/Ishita197397/dependencies?theme=dark" width="48%">
-</a>
-
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ishita197397" target="_blank">
-  <img src="https://stats.quine.sh/Ishita197397/topics-over-time?theme=dark" width="48%">
-</a>
-
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Ishita197397" target="_blank">
-  <img src="https://stats.quine.sh/Ishita197397/languages-over-time?theme=dark" width="48%">
-</a>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ishita197397&theme=darkhub" alt="Ishita197397" />
+<p align="center">
+  <a href="https://github.com/Ishita197397">
+    <img src="https://img.shields.io/badge/GitHub-Ishita197397-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/Ishita197397/">
+    <img src="https://img.shields.io/badge/LeetCode-1600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/Ishita197397/count.svg)
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ishita197397.Ishita197397" />
+### 🌸 About Me
+
+* 🎓 **CSE-AI @ Indira Gandhi Delhi Technical University for Women**
+* 💻 Passionate about **Full-Stack Development**
+* ⚡ Building projects with the **MERN Stack**
+* 🧠 **LeetCode Top 20% | 1600+ Rating**
+* 🔥 Consistently practicing **Data Structures & Algorithms**
+* 🚀 Eager to **learn, build, collaborate and grow**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vite,postman,mysql&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishita197397&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita197397&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishita197397&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ishita197397/">
+    <img src="https://leetcard.jacoblin.cool/Ishita197397?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishita197397&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita197397&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building. Learning. Solving. Growing. ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishita197397&label=Profile%20Views&color=7A7ADB&style=flat" />
+</p>
