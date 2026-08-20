@@ -56,14 +56,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishita197397&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
