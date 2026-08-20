@@ -38,25 +38,20 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishita197397&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita197397&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishita197397&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/ishita_5/">
     <img src="https://leetcard.jacoblin.cool/ishita_5?theme=dark&font=Karma&ext=heatmap" />
   </a>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishita197397&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,6 +68,19 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita197397&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 📌 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishita197397&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishita197397&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishita197397&theme=tokyonight" />
 </p>
 
 ---
